@@ -8,7 +8,7 @@ const questions = [
     correct: 1,
   },
   {
-    quiz: ["House Of Memories", "Emperor's New Clothes", "Ballad Of Mona"],
+    quiz: ["House Of Memories", "Emperor's New Clothes", "Ballad Of Mona Lisa"],
     options: ["Panic! At The Disco","Fall Out Boy"],
     correct: 1,
   },
